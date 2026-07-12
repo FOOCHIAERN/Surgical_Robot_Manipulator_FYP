@@ -1,3 +1,9 @@
 # Surgical_Robot_Manipulator_FYP
 3 DOF Manipulator for Translation-only movement in XYZ Cartesian space
 Author: Foo Chia Ern
+
+Link for Circuit Design:
+http://url1191.cirkitdesign.com/ls/click?upn=u001.HdQhdwv-2BW1knbvjnTnevC5ABHEiGy4JPLJCpIsr-2FgXKGWB2t3JIvuPp-2BGkvhiZGfRXRUO3FfiOYFyZndLiuZyJDBePaTrw-2B6Q6W7HuOcAnrbq3qyECoKCWsiUGDpEbd1-se6_1azD-2BYArx1SzaHzRCAGO6jZITyWLOoWdst1P0l94tq2uZtQP0lKw4KBRJn6PvuyLg6IE4mtCqKP-2BaqdzW5HPkHz8hdMVKhno5FSvGx-2FXx9zkbYh4HTBO4osAtP65jQBBLbeFNofdnan7j7NeKOIKH-2BNr76AhrHsrZl2ALKX1LZ-2B4ml2quiTUf0sAiMCaXEOqTX4NVSK7gomsWpilAAUv8g-3D-3D
+
+Issues to Solve:
+[Will Write Later]
