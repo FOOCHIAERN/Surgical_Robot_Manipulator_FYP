@@ -1,0 +1,9 @@
+1. Connect Ethernet LAN cable to Pi
+2. Open Command Prompt 
+> Type in 'arp -a' to search for Pi IP Address (Normally 192.168... with type = dynamic)
+> If failed, unplug Ethernet cable from Pi and replug after 5 seconds 
+> Type in 'ping pi.local' 
+> Pinging should be successful now 
+3. Open Visual Studio Code
+> Download 'Remote-ssh' extension/plug-in
+> 
